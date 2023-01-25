@@ -2,7 +2,7 @@
 Um HTML para criar código PIX com todas dependencias somente num arquivo HTML.
 
 - Envio de código copia e cola via WhatsApp
-- Salva os dados do ultimo pix
+- Salva os dados do ultimo pix (Gravado no LocalStorage do dispositivo)
 - Suporta cópia para ClipBoard
 - Gera e mostra o QRCode (base64)
 
